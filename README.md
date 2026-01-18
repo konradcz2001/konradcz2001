@@ -49,8 +49,6 @@ Technologies I work with on a daily basis:
 
 ### 📫 Contact Me
 
-### 📫 Contact Me
-
 You can reach me via LinkedIn or Email:
 <p>
 <a href="https://www.linkedin.com/in/konrad-czardybon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:konradcz2001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
